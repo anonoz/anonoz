@@ -1,4 +1,4 @@
-### Anonoz Noodle Shack 张记云吞面 🍜
+### Anonoz Noodle Shack 张记辣椒板面 🍜
 
 <!--
 **anonoz/anonoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
