@@ -1,4 +1,4 @@
-### Hi there 👋
+### Anonoz Noodle Shack 张记云吞面 🍜
 
 <!--
 **anonoz/anonoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently working at [Talenox](https://github.com/talenox) as a full stack Ruby on Rails engineer, occasionally do some devops works as well. 
+
+您好，我现在为[Talenox](https://github.com/talenox)做全栈与运维工程苦力。我喜欢 Ruby on Rails, 因为人生就好比被绑在火车轨道上，对吧. 开玩笑～
+
+Please check out my blog - [Anonoz Burps](https://anonoz.github.io). 请参观我的网志。
+
+
+
