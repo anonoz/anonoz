@@ -33,3 +33,4 @@ Walaupun saya macam letak banyak kepentingan kat atas kerja2 mengenai AI/ML (kep
 
 Sila baca blog saya - [Anonoz Burps](https://anonoz.github.io).
 
+我是吉隆坡人，識得少少廣東話，鐘意食辣椒板面。
