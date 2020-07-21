@@ -29,7 +29,7 @@ Please check out my blog - [Anonoz Burps](https://anonoz.github.io).
 
 Selamat sejahtera, salam 1Malaysia, saya ni Anonoz, skarang bekerja kat [Talenox](https://www.talenox.com.my) sebagai seorang jurutera perisian, berpakar kat dalam bahasa Ruby dan rangka Rails. Kadang-kala saya juga buat kerja mengenai DevOps.
 
-Walaupun saya macam letak banyak kepentingan kat atas kerja2 mengenai AI/ML (kepintaran buatan dan pelajaran mesin), itulah cuma kerja rumah saya ketika tahun terakhir di universiti. 
+Walaupun saya macam letak banyak kepentingan kat atas kerja2 mengenai AI/ML (kepintaran buatan dan pembelajaran mesin), itulah cuma kerja rumah saya ketika tahun terakhir di universiti. 
 
 Sila baca blog saya - [Anonoz Burps](https://anonoz.github.io).
 
