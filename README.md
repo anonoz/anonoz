@@ -33,7 +33,7 @@ Walaupun saya macam letak banyak kepentingan kat atas kerja2 mengenai AI/ML (kep
 
 Sila baca blog saya - [Anonoz Burps](https://anonoz.github.io).
 
-🇪🇸 ¡Hola¡ Soy Anonoz, ahora estoy trabajando en Talenox como on ingeniero de full-stack, a veces haciendo unos DevOps también.
+🇪🇸 ¡Hola! Soy Anonoz, ahora estoy trabajando en Talenox como on ingeniero de full-stack, a veces haciendo unos DevOps también.
 
 Me gustaría si quieres visitar mi sitio blog se llama [Anonoz Burps](https://anonoz.github.io) que escribo sobre tecnología de Internet.
 
