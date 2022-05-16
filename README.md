@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working at [Talenox](https://github.com/talenox) as a full stack Ruby on Rails engineer, occasionally do some devops works as well. 
+I am currently not working. I used to be a full stack Ruby on Rails engineer, occasionally did some devops works as well.
 
 Despite the public repos that I have pinned here, I am not an AI/ML practicioner, these are just courseworks that I have done during last year of my degree study.
 
 Please check out my blog - [Anonoz Burps](https://anonoz.github.io).
 
-🇨🇳 您好，我现在为[Talenox](https://github.com/talenox)做全栈与运维工程苦力。我喜欢 Ruby on Rails, 因为人生就好比被绑在火车轨道上，对吧. 开玩笑～
+🇨🇳 您好，我现在正在休假。我喜欢 Ruby on Rails, 因为人生就好比被绑在火车轨道上，对吧. 开玩笑～
 
 虽然我似乎把此页焦点放在机器学习上，这只不过是我在大学时所做的功课，在工作上我没动那些酱先进的东西，不好意思。
 
@@ -33,7 +33,7 @@ Walaupun saya macam letak banyak kepentingan kat atas kerja2 mengenai AI/ML (kep
 
 Sila baca blog saya - [Anonoz Burps](https://anonoz.github.io).
 
-🇪🇸 ¡Hola! Soy Anonoz, ahora estoy trabajando en Talenox como on ingeniero de full-stack, a veces haciendo unos DevOps también.
+🇪🇸 ¡Hola! Soy Anonoz, ahora no tengo ningun trabajo. He trabajado como on ingeniero de full-stack, a veces haciendo unos DevOps también.
 
 Me gustaría si quieres visitar mi sitio blog se llama [Anonoz Burps](https://anonoz.github.io) que escribo sobre tecnología de Internet.
 
