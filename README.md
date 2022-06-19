@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently not working. I used to be a full stack Ruby on Rails engineer, occasionally did some devops works as well.
+I am currently on a hiatus. I used to be a full stack Ruby on Rails engineer, occasionally did some devops works as well.
 
 Despite the public repos that I have pinned here, I am not an AI/ML practicioner, these are just courseworks that I have done during last year of my degree study.
 
@@ -27,13 +27,15 @@ Please check out my blog - [Anonoz Burps](https://anonoz.github.io).
 
 请参观我的英文网志 - [Anonoz Burps](https://anonoz.github.io).
 
-🇲🇾 Salam sejahtera, saya ni Anonoz, skarang bekerja kat [Talenox](https://www.talenox.com.my) sebagai seorang jurutera perisian, berpakar kat dalam bahasa Ruby dan rangka Rails. Kadang-kala saya juga buat kerja mengenai DevOps.
+🇲🇾 Salam sejahtera, saya ni Anonoz. Saya tidak bekerja sekarang dan sedang bercuti-cuti sekeliling dunia.
+
+Saya pernah bekerja kat [Talenox](https://www.talenox.com.my) sebagai seorang jurutera perisian, berpakar kat dalam bahasa Ruby dan rangka Rails. Kadang-kala saya juga buat kerja mengenai DevOps.
 
 Walaupun saya macam letak banyak kepentingan kat atas kerja2 mengenai AI/ML (kepintaran buatan dan pembelajaran mesin), itulah cuma kerja rumah saya ketika tahun terakhir di universiti. 
 
 Sila baca blog saya - [Anonoz Burps](https://anonoz.github.io).
 
-🇪🇸 ¡Hola! Soy Anonoz, ahora no tengo ningun trabajo. He trabajado como on ingeniero de full-stack, a veces haciendo unos DevOps también.
+🇪🇸 ¡Hola! Soy Anonoz, ahora no tengo ningun trabajo y estoy viajando por el mundo. He trabajado como un ingeniero de full-stack, a veces haciendo unos DevOps también.
 
 Me gustaría si quieres visitar mi sitio blog se llama [Anonoz Burps](https://anonoz.github.io) que escribo sobre tecnología de Internet.
 
